@@ -35,9 +35,9 @@
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/ViolentAyang/DataStructureC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViolentAyang&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViolentAyang&repo=DataStructureC&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/ViolentAyang/EmSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViolentAyang&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViolentAyang&repo=EmSystem&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 正在学习: 
