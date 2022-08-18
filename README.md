@@ -30,13 +30,13 @@
 <p>✍️&nbsp;&nbsp;大家好，我是暴力阿扬! 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
+<p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获</p>
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/ViolentAyang/Awesome-Love-Code">
+<a href="https://github.com/ViolentAyang/DataStructureC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViolentAyang&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/ViolentAyang/Student-Data-Vision">
+<a href="https://github.com/ViolentAyang/EmSystem">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViolentAyang&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
