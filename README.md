@@ -11,10 +11,10 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://www.violentayang.site/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://blog.csdn.net/L6666688888?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://space.bilibili.com/234122559?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/jin-cheng-shi-jiu-shao"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=ViolentAyang" alt="访客统计" /></div>
 
@@ -127,11 +127,11 @@
 ### 🤾‍♂️ Funny Soul
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
+* <a href='https://blog.csdn.net/L6666688888/article/details/126304127?spm=1001.2014.3001.5501' target='_blank'>宝塔面板+阿里云部署springboot+vue项目</a> - 2021-12-31
+* <a href='https://blog.csdn.net/L6666688888/article/details/123356370?spm=1001.2014.3001.5501' target='_blank'>手把手带你用python+和风天气+腾讯云函数+qmsg实现定时推送每日天气</a> - 2021-11-28
+* <a href='https://blog.csdn.net/L6666688888/article/details/122895577?spm=1001.2014.3001.5501' target='_blank'>python+server酱+腾讯云函数实现定时推送微信消息</a> - 2021-11-12
+* <a href='https://blog.csdn.net/L6666688888/article/details/122786053?spm=1001.2014.3001.5501' target='_blank'>非华为电脑如何与matepad pro进行多屏协同，以及如何处理连接失败等问题</a> - 2021-11-12
+* <a href='https://www.bilibili.com/video/BV1z34y1n7Ry?spm_id_from=333.999.0.0' target='_blank'>求几阶无穷小的一个技巧</a> - 2021-03-07
 <!-- END_SECTION:douban -->
   
 </td> 
