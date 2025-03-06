@@ -131,7 +131,6 @@
 * <a href='https://blog.csdn.net/L6666688888/article/details/123356370?spm=1001.2014.3001.5501' target='_blank'>手把手带你用python+和风天气+腾讯云函数+qmsg实现定时推送每日天气</a> - 2022-8-8
 * <a href='https://blog.csdn.net/L6666688888/article/details/122895577?spm=1001.2014.3001.5501' target='_blank'>python+server酱+腾讯云函数实现定时推送微信消息</a> - 2022-1-12
 * <a href='https://blog.csdn.net/L6666688888/article/details/122786053?spm=1001.2014.3001.5501' target='_blank'>非华为电脑如何与matepad pro进行多屏协同，以及如何处理连接失败等问题</a> - 2021-11-12
-* <a href='https://www.bilibili.com/video/BV1z34y1n7Ry?spm_id_from=333.999.0.0' target='_blank'>求几阶无穷小的一个技巧</a> - 2022-07-07
 <!-- END_SECTION:douban -->
   
 </td> 
